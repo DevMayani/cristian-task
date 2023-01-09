@@ -468,7 +468,7 @@ header{
 
 .first_top_border{
   border-top: 1px solid rgb(238, 238, 238);
-  width: fit-content;
+  /* width: fit-content; */
 
 }
 
@@ -729,7 +729,7 @@ header{
 .main_fourth_section_left{
   display: flex;
   border-top: 1px solid rgb(238, 238, 238);
-  width: fit-content;
+  /* width: fit-content; */
   padding-top: 10px;
 }
 
@@ -825,10 +825,12 @@ header{
 .main_fifth_section_left{
   display: flex;
   border-top: 1px solid rgb(238, 238, 238);
-  width: fit-content;
+  /* width: fit-content; */
   padding-top: 10px;
 }
-
+.first_section_first_row_left_lower{
+  color:"#5F6368 ;
+}
 .fifth_section_left_first_row{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
